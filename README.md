@@ -52,6 +52,7 @@ available on COPYING file.
 Vania Smirnov
 
 Based on work by:
-Andrew J. Nelson - http://webgnuru.com/linux/rsync_incremental.php
-Mike Rubel - http://www.mikerubel.org/computers/rsync_snapshots/
+Andrew J. Nelson - http://webgnuru.com/linux/rsync_incremental.php  
+Mike Rubel - http://www.mikerubel.org/computers/rsync_snapshots/  
+
 
