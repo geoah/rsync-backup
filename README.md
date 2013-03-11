@@ -1,14 +1,16 @@
-# name-of-project [version]
+# Rsync Babylon Backup [v0.1]
 ***
 
 
-`name-of-project` and description here
+`Rsync Babylon Backup` is a bash script that creates a [babylon tower backup](http://en.wikipedia.org/wiki/Backup_rotation_scheme#Grandfather-father-son) using 
+rsync. It uses hard links in order to save space, and supports many options.
 
-**Note**: possible notes and disclaimers
+
+**Note**: Requires superuser permissions.
 
 ### Screenshot
 
-![screenshot](https://raw.github.com/airblade/vim-gitgutter/master/screenshot.png)
+![screenshot]()
 
 In the screenshot above you can see:
 
@@ -43,10 +45,13 @@ answer 2
 
 #### License
 
-`project-name-here` is licensed with XXX. Full license text is
+`Rsync Babylon Backup` is licensed with XXX. Full license text is
 available on COPYING file.
 
 #### Contributors
+Vania Smirnov
 
-me!
-based on work by
+Based on work by:
+Andrew J. Nelson - http://webgnuru.com/linux/rsync_incremental.php
+Mike Rubel - http://www.mikerubel.org/computers/rsync_snapshots/
+
