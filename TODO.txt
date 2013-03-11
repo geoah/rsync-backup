@@ -1,0 +1,12 @@
+Wishlist:
+- add option to exclude files (for backing up entire systems, also gvfs problems)
+- add option to backup over network - see man rsync for details
+
+Check:
+- check if permissions properly preserved - ie, if root runs, can user access personal files?
+
+Learning:
+- read up on cron, add documentation to cron.sh
+
+Optional:
+- create install script? or at least document how to install the script 
