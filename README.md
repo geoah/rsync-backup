@@ -56,3 +56,6 @@ Andrew J. Nelson - http://webgnuru.com/linux/rsync_incremental.php
 Mike Rubel - http://www.mikerubel.org/computers/rsync_snapshots/  
 
 
+## To Do
+1. add check if weekldy daily and monthly folders exist
+
